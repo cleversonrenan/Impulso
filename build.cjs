@@ -1,0 +1,10 @@
+const fs=require('node:fs');const path=require('node:path');
+const root=__dirname;const src=p=>fs.readFileSync(path.join(root,'src',p),'utf8');
+const catalog=JSON.parse(src('catalog.json'));
+if(catalog.length!==23)throw Error('Catálogo Android inesperado.');
+const core=src('core.js').replace('/*CATALOG*/[]',JSON.stringify(catalog));
+fs.mkdirSync(path.join(root,'dist'),{recursive:true});fs.mkdirSync(path.join(root,'generated'),{recursive:true});
+fs.writeFileSync(path.join(root,'generated/core.cjs'),core);
+const html=src('template.html').replace('/*STYLE*/',()=>src('style.css')).replace('/*CORE*/',()=>core).replace('/*APP*/',()=>src('app.js'));
+fs.writeFileSync(path.join(root,'dist/index.html'),html);fs.writeFileSync(path.join(root,'IMPULSO.html'),html);
+console.log('IMPULSO.html criado; catálogo com '+catalog.length+' exercícios.');

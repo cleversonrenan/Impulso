@@ -1,0 +1,234 @@
+[
+  {
+    "gym": false,
+    "name": "Flexão na parede",
+    "cue": "Mantenha o corpo alinhado e aproxime o peito da parede com controle.",
+    "id": "wall_push",
+    "level": 0,
+    "equipment": [],
+    "pattern": "push"
+  },
+  {
+    "gym": false,
+    "name": "Flexão com joelhos apoiados",
+    "cue": "Mantenha tronco e quadril alinhados; adapte a amplitude sem dor.",
+    "id": "knee_push",
+    "level": 0,
+    "equipment": [],
+    "pattern": "push"
+  },
+  {
+    "gym": false,
+    "name": "Flexão de braços",
+    "cue": "Corpo alinhado, abdômen firme e movimento controlado.",
+    "id": "pushup",
+    "level": 1,
+    "equipment": [],
+    "pattern": "push"
+  },
+  {
+    "gym": true,
+    "name": "Supino no chão com halteres",
+    "cue": "Deite no chão, mantenha os punhos alinhados e desça sem bater os braços.",
+    "id": "floor_press",
+    "level": 0,
+    "equipment": [
+      "Halteres"
+    ],
+    "pattern": "push"
+  },
+  {
+    "gym": true,
+    "name": "Supino com halteres",
+    "cue": "Use banco estável e controle a descida, sem forçar a amplitude.",
+    "id": "bench_press",
+    "level": 0,
+    "equipment": [
+      "Halteres",
+      "Banco"
+    ],
+    "pattern": "push"
+  },
+  {
+    "gym": true,
+    "name": "Supino na máquina",
+    "cue": "Ajuste o assento para alinhar as pegadas ao peito.",
+    "id": "machine_press",
+    "level": 0,
+    "equipment": [
+      "Máquinas"
+    ],
+    "pattern": "push"
+  },
+  {
+    "gym": true,
+    "name": "Remada com halteres",
+    "cue": "Incline o tronco com coluna neutra e conduza os cotovelos para trás.",
+    "id": "db_row",
+    "level": 0,
+    "equipment": [
+      "Halteres"
+    ],
+    "pattern": "pull"
+  },
+  {
+    "gym": false,
+    "name": "Remada sentada com elástico",
+    "cue": "Use elástico íntegro, firme nos pés; puxe sem arredondar a coluna.",
+    "id": "band_row",
+    "level": 0,
+    "equipment": [
+      "Elásticos"
+    ],
+    "pattern": "pull"
+  },
+  {
+    "gym": true,
+    "name": "Puxada na máquina",
+    "cue": "Puxe à frente do corpo, mantendo o tronco estável.",
+    "id": "pulldown",
+    "level": 0,
+    "equipment": [
+      "Máquinas"
+    ],
+    "pattern": "pull"
+  },
+  {
+    "gym": false,
+    "name": "Barra fixa",
+    "cue": "Use barra firme. Suba com controle, sem balanço; pare antes de perder a técnica.",
+    "id": "pullup",
+    "level": 1,
+    "equipment": [
+      "Barra fixa"
+    ],
+    "pattern": "pull"
+  },
+  {
+    "gym": false,
+    "name": "Agachamento livre",
+    "cue": "Pés firmes, joelhos acompanhando a direção dos pés e amplitude confortável.",
+    "id": "squat",
+    "level": 0,
+    "equipment": [],
+    "pattern": "squat"
+  },
+  {
+    "gym": true,
+    "name": "Agachamento goblet",
+    "cue": "Segure o halter junto ao peito e mantenha o tronco estável.",
+    "id": "goblet",
+    "level": 0,
+    "equipment": [
+      "Halteres"
+    ],
+    "pattern": "squat"
+  },
+  {
+    "gym": true,
+    "name": "Leg press",
+    "cue": "Ajuste a máquina e mantenha o quadril apoiado durante o movimento.",
+    "id": "legpress",
+    "level": 0,
+    "equipment": [
+      "Máquinas"
+    ],
+    "pattern": "squat"
+  },
+  {
+    "gym": false,
+    "name": "Agachamento dividido",
+    "cue": "Base afastada, equilíbrio e descida controlada; repetições por lado.",
+    "id": "split_squat",
+    "level": 1,
+    "equipment": [],
+    "pattern": "squat"
+  },
+  {
+    "gym": false,
+    "name": "Ponte de glúteos",
+    "cue": "Pés apoiados no chão; eleve o quadril sem arquear a lombar.",
+    "id": "bridge",
+    "level": 0,
+    "equipment": [],
+    "pattern": "hinge"
+  },
+  {
+    "gym": true,
+    "name": "Levantamento romeno com halteres",
+    "cue": "Leve o quadril para trás com coluna neutra. Interrompa se perder a posição.",
+    "id": "rdl",
+    "level": 1,
+    "equipment": [
+      "Halteres"
+    ],
+    "pattern": "hinge"
+  },
+  {
+    "gym": false,
+    "name": "Ponte de glúteos unilateral",
+    "cue": "Mantenha a pelve nivelada; faça as repetições de cada lado.",
+    "id": "one_bridge",
+    "level": 1,
+    "equipment": [],
+    "pattern": "hinge"
+  },
+  {
+    "gym": true,
+    "name": "Desenvolvimento com halteres",
+    "cue": "Suba os halteres sem arquear as costas e use amplitude confortável.",
+    "id": "db_press",
+    "level": 1,
+    "equipment": [
+      "Halteres"
+    ],
+    "pattern": "shoulder"
+  },
+  {
+    "gym": true,
+    "name": "Elevação lateral com halteres",
+    "cue": "Use carga leve, cotovelos suaves e evite impulso.",
+    "id": "lateral",
+    "level": 0,
+    "equipment": [
+      "Halteres"
+    ],
+    "pattern": "shoulder"
+  },
+  {
+    "gym": false,
+    "name": "Flexão pike",
+    "cue": "Quadril elevado, base estável e descida controlada; reduza a amplitude se necessário.",
+    "id": "pike",
+    "level": 1,
+    "equipment": [],
+    "pattern": "shoulder"
+  },
+  {
+    "gym": false,
+    "name": "Dead bug",
+    "cue": "Mantenha a lombar estável e alterne braço e perna opostos; repetições por lado.",
+    "id": "deadbug",
+    "level": 0,
+    "equipment": [],
+    "pattern": "core"
+  },
+  {
+    "gym": false,
+    "name": "Bird dog",
+    "cue": "Em quatro apoios, estenda braço e perna opostos sem girar o tronco; por lado.",
+    "id": "bird_dog",
+    "level": 0,
+    "equipment": [],
+    "pattern": "core"
+  },
+  {
+    "gym": false,
+    "name": "Elevação de panturrilhas",
+    "cue": "Eleve os calcanhares com controle, usando apoio estável para equilíbrio.",
+    "id": "calf",
+    "level": 0,
+    "equipment": [],
+    "pattern": "calf"
+  }
+]
