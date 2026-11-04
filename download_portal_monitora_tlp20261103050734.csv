@@ -1,0 +1,569 @@
+﻿TSK;NENAME;END_ID;TECNOLOGIA;TIPO_FALHA;UF;STATUS;ANALISE_USER;PRIORIDADE;MODELO_TSK;DATA_CRIACAO;COORDENADOR;REGIONAL;CA;QTD_ATIVIDADES;XA_ORIGIN_BUCKET;WORKZONE;TECNICO;"DATA DE ASSOCIAÇÃO";OBSERVAÇÃO;"FLAG ENCONTRADA";EVENT_OUTRA_AREA;POND;ANEL;"ANEL COMPLETO";"DIAS ABERTO";"COM TECNICO";AREA;TIPO;ATUALIZACAO;PRESENTE_NETCOOL;USUARIO_CRIADOR
+TSK261000041833;ES5453;ESSORT0003;NODE-B;"SISTEMA IRRADIANTE";ES;"NAO INICIADO";-;P5;BACKLOG;"2026-10-09 02:05:30";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-SMT02;"TLP-T3429226-ANDERSON DE MARCHI OLIVEIRA";"2026-11-03 00:11:15";;nao;n;-;-;-;25;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000077889;SR-ITBO14;RJIOY_0018;"Single RAN";HARDWARE;RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-16 03:39:58";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;"TLP-T3430021-FABIO AUGUSTO BALBINO";"2026-11-03 00:11:15";;nao;n;-;-;-;18;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000160770;SR-RJBF38;RJRJO_0087;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P3;BACKLOG;"2026-10-31 06:01:21";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;"TLP-T3354421-ADENILSON AVELINO DA SILVA";"2026-11-03 00:11:15";;nao;n;-;-;-;3;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000155906;-;-;-;INDISPONIBILIDADE;RJ;"NAO INICIADO";"SEM ACESSO";P5;BACKLOG;"2026-10-30 09:29:00";NAO_MAPEADO;TRJ;-;1;TRJ_FMMT;-;"TLP-T3264578-MARCELO GOMES DA ROCHA";"2026-10-31 06:49:22";"31/10/2026 06:47 MARIA CLARA MANFREDINI COELHO: Escalonamento – Restrição de acesso
+Motivo: SUSPENSÃO
+TSK/NE ID: TSK261000155906 
+Técnico: CCI TRJ
+Restrição: Técnico solicita que o chamado permaneça pendente até terça-feira, dia 03/11/2026, para que seja providenciado um conversor DATACOM DM704 CE, necessário para substituição na sala de TI. Informa que não há acompanhamento no local durante finais de semana e feriados. Foto do conversor anexada como evidência.
+30/10/2026 10:05 MARIA CLARA MANFREDINI COELHO: Técnico Marcelo Gomes, , acionado e ciente com previsão às 11:30h. 
+";nao;n;-;-;-;3;SIM;FMMT;FIXA;DESATUALIZADO;n;"ISOC SERVICOS FIXO TRANSMISSAO"
+TSK261000160043;-;-;-;"ESCALONAMENTO P1";RJ;"NAO INICIADO";"FLAG LAYER";P1;BACKLOG;"2026-10-31 00:37:11";NAO_MAPEADO;TRJ;-;1;TRJ_FMMT;-;"TLP-T3600213-FRANCISCO ALEX DE SOUSA SIL";"2026-11-02 11:34:47";"31/10/2026 10:33 MARIA CLARA MANFREDINI COELHO: SOLICITAÇÃO DE FLAG
+CHAMADO: TSK261000160043 MOTIVO: Tramitação
+ATUALIZAÇÃO: Técnico Gustavo informa que, ao chegar ao site RJTJ38, identificou que a informação referente ao equipamento RJO-RJTJ38-THWP01, porta 2/17, está incorreta, pois a referida porta não existe no equipamento. Ressalta que o chamado foi direcionado sem as informações técnicas corretas. O técnico tentou contato com o NOC para validação dos dados, porém permaneceu aguardando na linha por mais de 1 hora, sem sucesso. Portanto, é necessária a correção das informações para continuidade da tratativa.
+31/10/2026 08:36 MARIA CLARA MANFREDINI COELHO: Técnico Gustavo Cabral verificando acesso ao site.
+31/10/2026 07:35 MARIA CLARA MANFREDINI COELHO: Técnico Gustavo Cabral, +55 21 99257-9417, acionado e ciente com previsão às 8:20h
+31/10/2026 06:40 MARIA CLARA MANFREDINI COELHO: Técnico Gustavo Cabral, +55 21 99257-9417, acionado e ciente. Aguardando previsão. 
+31/10/2026 02:06 PYETRA ARIELLY ILHEO DA SILVEIRA: 📌Escalonamento – RESTRIÇÃO DE ACESSO
+📎Motivo: Suspensão
+👷Técnico/contato: Renato Santos 
+📍TSK/NE ID:TSK261000160043 / RJO-RJTJ38-THWP01
+🟡Observação: Site localizado em prédio residencial, com acesso permitido somente em horário comercial, pois não há porteiro no período noturno
+";nao;n;-;-;-;3;SIM;FMMT;FIXA;DESATUALIZADO;n;"ISOC SERVICOS FIXO TRANSMISSAO"
+TSK261100007257;RJRJO_MSAN1467;-;ME.OLT;"INDISPONIBILIDADE PARCIAL";RJ;"NAO INICIADO";"EM ESTEIRA";-;"NO PRAZO";"2026-11-02 15:34:37";NAO_MAPEADO;TRJ1;-;1;TRJ1_FMO;-;TRJ1_FMO;;;nao;n;-;-;-;0;NÃO;FMO;MOVEL;"SEM ANALISE";n;"CAMPO FMO TRIAGEM TRJ 1"
+TSK261000156096;-;-;-;"ESCALONAMENTO P1";RJ;"NAO INICIADO";"FLAG LAYER";P1;BACKLOG;"2026-10-30 09:59:47";NAO_MAPEADO;TRJ;-;1;TRJ_FMMT;-;OPERADOR_CSM_FMT-RJ_ZNO01-ZOE02;"2026-11-03 00:04:08";"01/11/2026 19:38 PYETRA ARIELLY ILHEO DA SILVEIRA: SOLICITAÇÃO DE FLAG
+TSK / NE: TSK261000156096
+MOTIVO: Tramitação
+Motivo: Técnico solicita informações detalhadas do equipamento, incluindo slot e portas, para dar continuidade à tratativa.
+01/11/2026 16:56 MARIA CLARA MANFREDINI COELHO: 
+01/11/2026 13:13 MARIA CLARA MANFREDINI COELHO: 
+01/11/2026 13:12 MARIA CLARA MANFREDINI COELHO: SOLICITAÇÃO DE FLAG
+TSK / NE: TSK261000156096
+MOTIVO: Tramitação
+Motivo: Técnico solicita informações detalhadas do equipamento, incluindo slot e portas, para dar continuidade à tratativa.
+
+01/11/2026 08:49 MARIA CLARA MANFREDINI COELHO: 
+SOLICITAÇÃO DE FLAG
+TSK / NE: TSK261000156096
+MOTIVO: Tramitação
+Motivo: Técnico solicita informações detalhadas do equipamento, incluindo slot e portas, para dar continuidade à tratativa.
+
+31/10/2026 17:58 MARIA CLARA MANFREDINI COELHO: SOLICITAÇÃO DE FLAG
+TSK / NE: TSK261000156096
+MOTIVO: Tramitação
+Motivo: Técnico solicita informações detalhadas do equipamento, incluindo slot e portas, para dar continuidade à tratativa.
+31/10/2026 10:02 MARIA CLARA MANFREDINI COELHO: SOLICITAÇÃO DE FLAG
+TSK / NE: TSK261000156096
+MOTIVO: Tramitação
+Motivo: Técnico solicita informações detalhadas do equipamento, incluindo slot e portas, para dar continuidade à tratativa.
+31/10/2026 07:03 MARIA CLARA MANFREDINI COELHO: SOLICITAÇÃO DE FLAG
+TSK / NE: TSK261000156096 
+MOTIVO: Tramitação
+Motivo: Técnico solicita informações detalhadas do equipamento, incluindo slot e portas, para dar continuidade à tratativa.
+30/10/2026 10:10 MARIA CLARA MANFREDINI COELHO: Técnico Jose Carlos Duque, +55 21 97042-0930, acionado e ciente. Aguardando previsão. 
+";nao;n;-;-;-;3;NÃO;FMMT;FIXA;DESATUALIZADO;n;"ISOC SERVICOS FIXO TRANSMISSAO"
+TSK261100007572;RJRJO_MSAN1462;-;ME.OLT;"INDISPONIBILIDADE PARCIAL";RJ;"NAO INICIADO";"EM ESTEIRA";-;"NO PRAZO";"2026-11-02 16:38:25";NAO_MAPEADO;TRJ1;-;1;TRJ1_FMO;-;TRJ1_FMO;;;nao;n;-;-;-;0;NÃO;FMO;MOVEL;"SEM ANALISE";n;"CAMPO FMO TRIAGEM TRJ 1"
+TSK260800034076;4G-RJHQ05;RJRJO_3463;ENODE-B;-;RJ;"NAO INICIADO";"ESTEIRA DE ATENDIMENTO";P5;BACKLOG;"2026-08-07 17:28:57";"ALAN OLIVEIRA";TRJ;-;6;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3430752-GENIVAL DUARTE DOS SANTOS";"2026-11-03 00:26:59";"14/09/2026 18:39 NATALIA SILVA GOMES: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+14/09/2026 10:44 NATALIA SILVA GOMES: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+10/09/2026 09:55 NATALIA SILVA GOMES: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+";nao;n;-;-;-;87;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC SUPORTE ACESSO"
+TSK260900139390;NLVIAN05;ESVIA_0003;ENODE-B;"SISTEMA IRRADIANTE";ES;"NAO INICIADO";"ATIVIDADE EM ALTURA";P5;BACKLOG;"2026-09-29 06:02:33";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-VIT03;OPERADOR_CSM_FMT-ES_EPS;"2026-11-02 23:42:20";"16/10/2026 17:17 LUKAS MATHEUS FERREIRA: Atividade em torre, necessário agendamento da atividade para segunda-feira. Coordenadora Merielem ciente.
+02/10/2026 10:06 LUKAS MATHEUS FERREIRA: 📍 INTERPÉRIE CLIMÁTICA
+
+ Solicitamos o abono - INTERPÉRIE CLIMÁTICA - Prezados, devido as fortes chuvas que atingiram toda região do TRJ. Dificultando acesso e tratativas em certos pontos e sites vulneráveis ao tempo. Solicitaremos abono do SLA devido a intempérie climática. 
+ A equipe de coordenação TLP está em sala de batimento junto à TIM desde 7 da manha. Estamos atendendo conforme prioridade
+
+
+";nao;n;-;-;-;35;NÃO;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000012963;SR-RJBA49;RJRJO_2956;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";"EM TRATATIVA";P5;BACKLOG;"2026-10-03 12:12:31";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3429229-HENRY DO VALE SANTOS";"2026-11-03 00:26:59";"01/11/2026 17:21 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+01/11/2026 09:07 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+31/10/2026 15:25 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+31/10/2026 10:53 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+30/10/2026 11:13 NATALIA SILVA GOMES: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+26/10/2026 10:20 NATALIA SILVA GOMES: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+20/10/2026 09:37 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+18/10/2026 10:02 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+17/10/2026 09:30 NATALIA SILVA GOMES: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+16/10/2026 11:28 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+14/10/2026 16:35 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+12/10/2026 09:58 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+09/10/2026 15:47 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+04/10/2026 08:49 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+";nao;n;-;-;-;30;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000079757;RJ4001;RJVAS_0615;NODE-B;"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";"ESTEIRA DE ATENDIMENTO";P5;BACKLOG;"2026-10-16 11:36:27";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3776640-JESSE DE BARROS VASCONCELOS";"2026-11-03 00:11:15";"28/10/2026 10:23 IASMIN CARVALHO APARECIDO: Atividade atribuída à fila de atendimento para posterior atuação. Estamos priorizando as atividades relacionadas a P1, P2, sites e rota fora e massivas. Assim que possível, atuaremos na falha.
+";nao;n;-;-;-;17;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000088222;SR-RJBG39;RJRJO_3019;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";"EM TRATATIVA";P5;BACKLOG;"2026-10-18 03:44:29";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3429555-EDNALDO MARTINS DE OLIVEIRA";"2026-11-03 00:11:15";"01/11/2026 09:21 NATALIA SILVA GOMES: Identificada a necessidade de montagem de andaime para acesso ao ponto da falha e continuidade dos procedimentos técnicos necessários à tratativa.
+31/10/2026 15:25 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+31/10/2026 11:19 NATALIA SILVA GOMES: Identificada a necessidade de montagem de andaime para acesso ao ponto da falha e continuidade dos procedimentos técnicos necessários à tratativa.
+30/10/2026 17:28 NATALIA SILVA GOMES: Identificada a necessidade de montagem de andaime para viabilizar o acesso ao local da falha e permitir a continuidade dos procedimentos técnicos para continuidade da tratativa.
+30/10/2026 10:51 NATALIA SILVA GOMES: Identificada a necessidade de montagem de andaime para acesso da falha e continuidade da tratativa.
+28/10/2026 15:30 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+26/10/2026 10:19 NATALIA SILVA GOMES: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+21/10/2026 11:09 JOÃO PEDRO RIBEIRO DAS DORES: TÉC. FABRICIO FRANÇA INFORMA NECESSÁRIO MONTAGEM DE ANDAIME PARA TRATATIVA DO VSWR
+21/10/2026 09:16 JOÃO PEDRO RIBEIRO DAS DORES: TÉC. FABRICIO FRANÇA E EDNALDO ACIONADOS E CIENTE, PREVISÃO 10:00H
+20/10/2026 09:26 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+18/10/2026 09:36 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+";nao;n;-;-;-;16;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000089262;MWE-RJ-RJMW58-T3-CG;RJEPF_0005;"RADIO MW";"AUSÊNCIA DE SINAL";RJ;"NAO INICIADO";"ESTEIRA DE ATENDIMENTO";P5;BACKLOG;"2026-10-18 10:18:25";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3776640-JESSE DE BARROS VASCONCELOS";"2026-11-03 00:11:15";"18/10/2026 15:55 IASMIN CARVALHO APARECIDO: VERIFICANDO ACIONAMENTO
+";nao;n;-;-;-;15;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000094543;SR-PETR28;RJPTS_0025;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-19 12:05:00";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-PET04;"TLP-T3433158-MARCUS PAULO LOPES PINTO DA";"2026-11-03 00:11:15";;nao;n;-;-;-;14;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000103734;SR-RJBT06;RJRJO_2058;"Single RAN";"SISTEMA IRRADIANTE";RJ;SUSPENSO;"EM TRATATIVA";P5;BACKLOG;"2026-10-20 21:31:19";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3430750-CRISTIANO PEREIRA DE AMORIM";"2026-11-03 00:11:15";"01/11/2026 17:19 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+01/11/2026 09:06 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+31/10/2026 15:21 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+31/10/2026 10:51 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+30/10/2026 10:58 NATALIA SILVA GOMES: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+28/10/2026 15:32 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+28/10/2026 10:19 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+26/10/2026 10:21 NATALIA SILVA GOMES: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+";nao;n;-;-;-;13;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000105122;SR-RJLG02;RJRJO_0259;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-21 07:06:22";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ-GRD01-ZSL01;"2026-11-02 23:15:08";;nao;n;-;-;-;13;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000105131;SR-RJIG14;RJRJO_0225;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-21 07:08:03";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ-GRD01-ZSL01;"2026-11-02 23:15:08";;nao;n;-;-;-;13;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000105662;SR-TRRS02;RJTRS_0002;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-21 09:33:05";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-PET04;"TLP-T3670355-ALEX DA SILVA PONTES";"2026-11-03 00:11:15";;nao;n;-;-;-;12;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000118962;SR-LINH09;ESLNS_0013;"Single RAN";"SISTEMA IRRADIANTE";ES;"NAO INICIADO";-;P5;BACKLOG;"2026-10-23 14:23:42";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-SMT02;"TLP-T3429226-ANDERSON DE MARCHI OLIVEIRA";"2026-11-03 00:11:15";;nao;n;-;-;-;10;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000122402;ES5414;ESJNV_0003;NODE-B;ENERGIA;ES;"NAO INICIADO";-;P5;BACKLOG;"2026-10-24 07:30:11";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-VIT03;OPERADOR_CSM_FMT-ES_EPS;"2026-11-02 23:42:20";;nao;n;-;-;-;10;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000128943;RJ3982;RJVLC_0002;NODE-B;"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";"EM TRATATIVA";P5;BACKLOG;"2026-10-25 17:06:55";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3738324-VICTOR CASTILHO DONATO";"2026-11-03 00:11:15";"27/10/2026 14:57 JEFERSON LEONARDO MARTINS: Técnico GIlson no local
+27/10/2026 12:09 JOÃO PEDRO RIBEIRO DAS DORES: TÉC. GILSON BARBOSA ACIONADO E CIENTE, PREVISÃO 14:30H
+";nao;n;-;-;-;8;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000130514;NLRJHQ06;RJRJO_3463;ENODE-B;HARDWARE;RJ;SUSPENSO;-;P5;BACKLOG;"2026-10-26 02:44:58";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3430752-GENIVAL DUARTE DOS SANTOS";"2026-11-03 00:26:59";;nao;n;-;-;-;8;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000131015;SR-NITE62;RJNRI_0056;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-26 06:13:47";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;"TLP-T3659839-CARLOS ROBERTO BARRETO GOME";"2026-11-03 00:11:15";;nao;n;-;-;-;8;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000131171;RJO-BAR01-HWP01;RJRJO_1540;PTN;LÓGICA;RJ;"NAO INICIADO";"CRÍTICA DE ENCERRAMENTO";P4;BACKLOG;"2026-10-26 07:10:28";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ_ZNO01-ZOE02;"2026-11-03 00:04:08";"01/11/2026 19:45 PYETRA ARIELLY ILHEO DA SILVEIRA: VERIFICANDO DISPONIBILIDADE TÉCNICA 
+01/11/2026 13:19 MARIA CLARA MANFREDINI COELHO: Justificativa de Encerramento – Crítica Sistêmica
+
+Chamado encontra-se normalizado e validado junto ao NOC, porém permanece em posto devido à crítica de encerramento gerada por falha no processamento da validação automática do sistema, mesmo com validação operacional concluída.
+
+Ressalta-se que foram aplicados os carimbos CCI, conforme abaixo, não havendo pendências técnicas em campo.
+
+Carimbo aplicado:
+[CCI TLP] – CARIMBO 0001
+Crítica de encerramento
+
+Dessa forma, será encaminhado pleito à TIM para ajuste sistêmico e liberação definitiva do encerramento.
+01/11/2026 13:18 MARIA CLARA MANFREDINI COELHO: 
+31/10/2026 18:16 MARIA CLARA MANFREDINI COELHO: 
+31/10/2026 06:37 MARIA CLARA MANFREDINI COELHO: Justificativa de Encerramento – Crítica Sistêmica
+
+Chamado encontra-se normalizado e validado junto ao NOC, porém permanece em posto devido à crítica de encerramento gerada por falha no processamento da validação automática do sistema, mesmo com validação operacional concluída.
+
+Ressalta-se que foram aplicados os carimbos CCI, conforme abaixo, não havendo pendências técnicas em campo.
+
+Carimbo aplicado:
+[CCI TLP] – CARIMBO 0001
+Crítica de encerramento
+
+Dessa forma, será encaminhado pleito à TIM para ajuste sistêmico e liberação definitiva do encerramento.
+30/10/2026 07:58 MARIA CLARA MANFREDINI COELHO: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+29/10/2026 19:27 TAIS CRISTINA MACEDO: Justificativa de Encerramento – Crítica Sistêmica
+
+Chamado encontra-se normalizado e validado junto ao NOC, porém permanece em posto devido à crítica de encerramento gerada por falha no processamento da validação automática do sistema, mesmo com validação operacional concluída.
+
+Ressalta-se que foram aplicados os carimbos CCI, conforme abaixo, não havendo pendências técnicas em campo.
+
+Carimbo aplicado:
+[CCI TLP] – CARIMBO 0001
+Crítica de encerramento
+
+Dessa forma, será encaminhado pleito à TIM para ajuste sistêmico e liberação definitiva do encerramento.
+28/10/2026 06:35 MARIA CLARA MANFREDINI COELHO:  Técnico Eder Luiz, +55 21 96943-0205,  acionado e ciente.
+26/10/2026 15:32 MARIA CLARA MANFREDINI COELHO:  Técnico Eder Luiz, +55 21 96943-0205,  acionado e ciente.
+26/10/2026 09:19 MARIA CLARA MANFREDINI COELHO: Técnico Eder Luiz, +55 21 96943-0205,  acionado e ciente.
+";nao;n;-;-;-;8;NÃO;FMMT;FIXA;DESATUALIZADO;n;"ISOC MONITORACAO TRANSPORTE TX"
+TSK261000131569;MWE-ES-VLVOMW01-N3;ESVLVO0002;"RADIO MW";HARDWARE;ES;"NAO INICIADO";-;P5;BACKLOG;"2026-10-26 09:08:43";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-SMT02;"TLP-T3430018-JHONATAN COSME DE ASSUNCAO";"2026-11-03 00:11:15";;nao;n;-;-;-;7;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000132344;RMACLNS-ES6140-01;ESLNS_0014;ROUTER;"SINAL DEGRADADO";ES;SUSPENSO;"EM TRATATIVA";P5;BACKLOG;"2026-10-26 11:36:06";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-SMT02;"TLP-T3779211-EDIMAR MORAES";"2026-11-03 00:11:15";"31/10/2026 17:08 LUKAS MATHEUS FERREIRA: Técnico Fabricio Bueloni no local, o mesmo informa uma possivel falha na fonte. Ainda sem diagnostico confirmado.
+";nao;n;-;-;-;7;SIM;FMMT;FIXA;DESATUALIZADO;n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261000132773;SR-RJBT64;RJRJO_0786;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";"EM TRATATIVA";P5;BACKLOG;"2026-10-26 13:02:02";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3429229-HENRY DO VALE SANTOS";"2026-11-03 00:11:15";"01/11/2026 17:30 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+01/11/2026 09:09 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+31/10/2026 11:11 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+30/10/2026 17:35 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+30/10/2026 11:17 NATALIA SILVA GOMES: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+28/10/2026 10:20 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+26/10/2026 13:07 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+";nao;n;-;-;-;7;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000136545;SR-SGLO25;RJSGO_0022;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-27 05:34:24";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;OPERADOR_CSM_FMT-RJ_BXD01-NIT02;"2026-11-02 23:22:51";;nao;n;-;-;-;7;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000137112;SR-RJLG09;RJRJO_0266;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-27 08:35:49";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ-GRD01-ZSL01;"2026-11-02 23:15:08";;nao;n;-;-;-;6;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000137113;SR-RJCP10;RJRJO10686;"Single RAN";"SISTEMA IRRADIANTE";RJ;SUSPENSO;-;P5;BACKLOG;"2026-10-27 08:36:02";NAO_MAPEADO;TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-BXD01;"TLP-T3429535-ALEXANDRE PAIVA DA SILVA";"2026-11-03 00:11:15";;nao;n;-;-;-;6;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000137115;18NLRJCP51;RJRJO_2042;ENODE-B;"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-27 08:36:16";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ-GRD01-ZSL01;"2026-11-02 23:15:08";;nao;n;-;-;-;6;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000137116;SR-RJIG24;RJRJO_0567;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-27 08:36:27";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ-GRD01-ZSL01;"2026-11-02 23:15:08";;nao;n;-;-;-;6;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000137117;SR-RJME10;RJRJO_0320;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-27 08:36:39";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ-GRD01-ZSL01;"2026-11-02 23:15:08";;nao;n;-;-;-;6;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000140920;VSAI01;RJVASA0001;BTS;"SISTEMA IRRADIANTE";RJ;SUSPENSO;-;P5;BACKLOG;"2026-10-27 18:47:38";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-CPS02;"TLP-T3776681-WESLEY PACHECO TAVARES MELO";"2026-11-03 00:11:15";;nao;n;-;-;-;6;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000144867;SR-RJBG06;RJRJO_0095;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";"EM TRATATIVA";P5;BACKLOG;"2026-10-28 11:54:28";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3523115-RICARDO AUGUSTO MULQUE DE O";"2026-11-03 01:44:28";"01/11/2026 17:17 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+01/11/2026 09:05 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+31/10/2026 11:21 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+30/10/2026 18:18 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+30/10/2026 11:47 NATALIA SILVA GOMES: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+28/10/2026 15:12 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+28/10/2026 12:02 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+";nao;n;-;-;-;5;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000147307;SR-SGON76;RJSGO_1492;"Single RAN";ENERGIA;RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-28 19:24:48";"VINICIUS PEREIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;"TLP-T3659839-CARLOS ROBERTO BARRETO GOME";"2026-11-03 00:11:15";;nao;n;-;-;-;5;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000149031;SR-MAGE06;RJMGE_0006;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-29 05:03:18";"VINICIUS PEREIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-BXD01;"TLP-T3429535-ALEXANDRE PAIVA DA SILVA";"2026-11-03 00:11:15";;nao;n;-;-;-;5;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000150865;PIRA06;RJPII_0006;BTS;"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";"ESTEIRA DE ATENDIMENTO";P5;BACKLOG;"2026-10-29 12:18:01";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3696835-EMMANUEL GOMES GUILHERME";"2026-11-03 00:11:15";"02/11/2026 16:07 JEFERSON LEONARDO MARTINS: Verificando acionamento
+";nao;n;-;-;-;4;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000152143;SR-MCAE19;RJMCE_0026;"Single RAN";ENERGIA;RJ;"NAO INICIADO";-;P4;BACKLOG;"2026-10-29 15:51:46";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-CBF01;"TLP-T3349112-OTAVIO AUGUSTO TOSTES SOUZA";"2026-11-03 00:11:15";;nao;n;-;-;-;4;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000152766;MWE-RJ-SZJMW01-T3-HW;RJSZJ_0004;"RADIO MW";"AUSÊNCIA DE SINAL";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-29 17:08:40";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-PET04;"TLP-T3782822-DIOGO DE OLIVEIRA DE FARIAS";"2026-11-03 00:11:15";;nao;n;-;-;-;4;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000153167;SR-CARI20;ESCCA_0025;"Single RAN";ENERGIA;ES;"NAO INICIADO";-;P5;BACKLOG;"2026-10-29 18:29:32";NAO_MAPEADO;TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-VIT03;OPERADOR_CSM_FMT-ES_EPS;"2026-11-02 23:42:20";;nao;n;-;-;-;4;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000154248;SR-RJLG33;RJRJO_0515;"Single RAN";HARDWARE;RJ;"NAO INICIADO";"EM TRATATIVA";P5;BACKLOG;"2026-10-29 23:16:24";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ-GRD01-ZSL01;"2026-11-02 23:15:08";"30/10/2026 16:44 TAILA DA SILVA CAMARGO: Técnico Vagner Brandão acionado, previsão 18:00
+30/10/2026 16:41 TAILA DA SILVA CAMARGO: Técnico Vagner Brandão acionado, aguardando a previsão do mesmo 
+";nao;n;-;-;-;4;NÃO;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000154428;SR-MAGE28;RJMGE_0052;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";"ESTEIRA DE ATENDIMENTO";P3;BACKLOG;"2026-10-30 00:21:28";"VINICIUS PEREIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-BXD01;OPERADOR_CSM_FMT-RJ_BXD01-NIT02;"2026-11-02 23:22:51";"01/11/2026 19:08 PYETRA ARIELLY ILHEO DA SILVEIRA: Atividade atribuída à fila de atendimento do para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva
+30/10/2026 10:34 TAILA DA SILVA CAMARGO: Atividade atribuída à fila de atendimento do para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva
+30/10/2026 10:34 TAILA DA SILVA CAMARGO: Atividade atribuída à fila de atendimento do para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva
+";nao;n;-;-;-;4;NÃO;FMMT;FIXA;DESATUALIZADO;n;"ISOC SERVICOS FIXO PREMIUM CLASS"
+TSK261000155232;ES5519;ESSEA_0029;NODE-B;"SISTEMA IRRADIANTE";ES;SUSPENSO;"ATIVIDADE EM ALTURA";P5;BACKLOG;"2026-10-30 06:01:56";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-VIT03;"TLP-T3429225-ADEMILSON ONOFRE DOS SANTOS";"2026-11-03 00:11:15";"30/10/2026 08:27 LUKAS MATHEUS FERREIRA: Escalonamento – RESTRIÇÃO DE ACESSO
+Motivo: SUSPENSÃO
+Técnico/contato: CCI TRJ
+TSK/NE ID: TSK261000155232 / ES5519
+Restrição: Site localizado na Arcelor Mittal, necessário agendamento prévio via email em HC.
+";nao;n;-;-;-;4;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000157875;4G-OI2321;RJRJO_9878;ENODE-B;DISPONIBILIDADE;RJ;"NAO INICIADO";-;-;"NO PRAZO";"2026-10-30 15:18:02";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ-GRD01-ZSL01;"2026-11-02 23:15:08";;nao;n;-;-;-;3;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO FA"
+TSK261000159689;18NLRJPE74;RJRJO_1463;ENODE-B;ENERGIA;RJ;"NAO INICIADO";"EM TRATATIVA";P4;BACKLOG;"2026-10-30 22:01:58";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;TRJ_FMMT;;"01/11/2026 09:03 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+31/10/2026 15:19 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+";nao;n;-;-;-;3;NÃO;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000160265;SR-SGLO40;RJSGO_0035;"Single RAN";"SISTEMA IRRADIANTE";RJ;SUSPENSO;-;P5;BACKLOG;"2026-10-31 02:27:13";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;"TLP-T3681269-RAFAEL CARVALHO PINTO";"2026-11-03 00:11:15";;nao;n;-;-;-;3;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000160275;SR-SGLO30;RJSGO_0027;"Single RAN";"SISTEMA IRRADIANTE";RJ;SUSPENSO;-;P5;BACKLOG;"2026-10-31 02:30:57";"VINICIUS PEREIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;"TLP-T3738323-HENRIQUE LOMBA CLAUDIO DE S";"2026-11-03 00:11:15";;nao;n;-;-;-;3;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000162594;18NLRJLG88;RJRJO_2524;ENODE-B;"SISTEMA IRRADIANTE";RJ;SUSPENSO;-;P5;BACKLOG;"2026-10-31 13:48:12";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ-GRD01-ZSL01;"2026-11-02 23:15:08";;nao;n;-;-;-;2;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000163778;MWE-RJ-ANGR12-N2-HW;RJARS_0014;"RADIO MW";"AUSÊNCIA DE SINAL";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-31 18:24:49";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ANG01;"TLP-T3429608-THIAGO DIAS DA SENHORA";"2026-11-03 00:11:15";;nao;n;-;-;-;2;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100000337;RNACRJO-RJJP34-01;RJRJO_0570;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";"SEM ACESSO";P5;BACKLOG;"2026-11-01 03:53:05";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;OPERADOR_CSM_FMT-RJ_ZNO01-ZOE02;"2026-11-03 04:46:17";"02/11/2026 00:57 PYETRA ARIELLY ILHEO DA SILVEIRA: 📌Escalonamento – Área de Risco
+📎Motivo: Suspensão
+👷Técnico/contato: CCI TRJ
+📍TSK/NE ID: TSK261100000337 / RNACRJO-RJJP34-01
+🟡Observação: Site localizado em área de risco
+";nao;n;-;-;-;2;NÃO;FMMT;FIXA;DESATUALIZADO;n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100000402;CNA-PKY01-ZTI01AG;ESCNA_0004;ROUTER;"AUSÊNCIA DE SINAL";ES;"NAO INICIADO";-;P3;BACKLOG;"2026-11-01 04:29:11";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-SMT02;"TLP-T3779211-EDIMAR MORAES";"2026-11-03 00:11:15";;nao;n;-;-;-;2;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE TX"
+TSK261100001196;SLSERR20;ESSEA_0050;ENODE-B;"SISTEMA IRRADIANTE";ES;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-01 09:06:44";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-VIT03;"TLP-T3429227-MATEUS ALVES RODRIGUES";"2026-11-03 00:42:27";;nao;n;-;-;-;1;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100001305;ES5382;ESCSE_0002;NODE-B;"SISTEMA IRRADIANTE";ES;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-01 09:39:40";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-CIM01;"TLP-T3429221-ANTONIO MARCOS BATISTA DE S";"2026-11-03 03:03:40";;nao;n;-;-;-;1;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100003507;18NLCMAC03;RJCHM_0003;ENODE-B;"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-01 21:11:51";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-NFB03;"TLP-T3429545-PAULO ROBERTO MONTEIRO";"2026-11-03 00:11:15";;nao;n;-;-;-;1;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100003561;RMACLNS-ES6140-01;ESLNS_0014;ROUTER;HARDWARE;ES;"NAO INICIADO";-;P3;BACKLOG;"2026-11-01 21:31:27";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-SMT02;"TLP-T3779211-EDIMAR MORAES";"2026-11-03 00:11:15";;nao;n;-;-;-;1;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100004335;MWE-RJ-ITAG14-N1-HW;RJIGI_0021;"RADIO MW";TRANSMISSÃO;RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-02 02:31:55";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3631591-FABRICIO INACIO DE FRANCA";"2026-11-03 00:11:15";;nao;n;-;-;-;1;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100004666;RJ3892;RJPII_0517;NODE-B;HARDWARE;RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-02 05:01:49";NAO_MAPEADO;TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;OPERADOR_CSM_FMT-RJ_INT_INT;"2026-11-02 23:14:32";;nao;n;-;-;-;1;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100004692;SR-VRED21;RJVRD_0032;"Single RAN";HARDWARE;RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-02 05:02:14";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3696835-EMMANUEL GOMES GUILHERME";"2026-11-03 00:11:15";;nao;n;-;-;-;1;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100006412;18NLTERE23;RJTRL_0026;ENODE-B;"SISTEMA IRRADIANTE";RJ;SUSPENSO;"ESTEIRA DE ATENDIMENTO";P3;BACKLOG;"2026-11-02 12:03:51";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-NFB03;"TLP-T3550535-JOSE CARLOS RUSSO";"2026-11-03 00:11:15";"02/11/2026 17:00 JEFERSON LEONARDO MARTINS: Aguardando disponibilidade técnica, técnico José Carlos Russo acionado e ciente
+";nao;n;-;-;-;0;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261100007101;RJMW13;RJSPA_0006;BTS;ENERGIA;RJ;"NAO INICIADO";"ESTEIRA DE ATENDIMENTO";P2;BACKLOG;"2026-11-02 15:00:11";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-CBF01;OPERADOR_CSM_FMT-RJ_INT_INT;"2026-11-02 23:14:32";"02/11/2026 16:03 JEFERSON LEONARDO MARTINS: DSOC ACESSO | VALIDAÇÃO DE ALARME PRESO
+Site: RJMW13
+Ticket: TSK261100007101
+Tipo da falha: Energia
+Técnico está no local? Sim
+Foi aberta CA? Sim
+Possui evidencias na TSK? Sim
+Foi realizada a consulta via TAIS se o alarme segue presente? Sim
+02/11/2026 15:17 JEFERSON LEONARDO MARTINS: Técnico Otavio Augusto acionado, previsão as 16:20
+02/11/2026 15:06 JEFERSON LEONARDO MARTINS: Verificando acionamento
+";nao;n;-;-;-;0;NÃO;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261100007142;SR-SGLO39;RJSGO_0034;"Single RAN";ENERGIA;RJ;SUSPENSO;-;P3;BACKLOG;"2026-11-02 15:08:03";"VINICIUS PEREIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;"TLP-T3738323-HENRIQUE LOMBA CLAUDIO DE S";"2026-11-03 00:11:15";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100007146;SR-SJMT32;RJSMI_0346;"Single RAN";"SISTEMA IRRADIANTE";RJ;SUSPENSO;-;P3;BACKLOG;"2026-11-02 15:09:39";"VINICIUS PEREIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-BXD01;OPERADOR_CSM_FMT-RJ_BXD01-BXD01;"2026-11-02 22:36:45";;nao;n;-;-;-;0;NÃO;FMMT;FIXA;"SEM ANALISE";n;"ISOC SERVICOS FIXO PREMIUM CLASS"
+TSK261100007216;SR-MGTB07;RJMGB_0007;"Single RAN";ENERGIA;RJ;SUSPENSO;"ESTEIRA DE ATENDIMENTO";P1;BACKLOG;"2026-11-02 15:23:36";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ANG01;"OPERADOR CSM TRJ";"2026-11-03 04:40:58";"02/11/2026 16:30 JEFERSON LEONARDO MARTINS: Verificando com técnico Alex Do Nascimento
+";nao;n;-;-;-;0;NÃO;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261100007518;MWE-RJ-CPGZ19-N1;RJCPS_0017;"RADIO MW";HARDWARE;RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-02 16:31:15";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-CPS02;"TLP-T3503582-ADYS MEDEIROS BENTO NETO";"2026-11-03 00:11:15";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100007642;FXFX01;ALFXS_0002;BTS;"INDISPONIBILIDADE PARCIAL";AL;"NAO INICIADO";-;P4;"NO PRAZO";"2026-11-02 16:55:22";"STENIO COSTA";TRJ;-;1;TNE1_FMMT;TNE-AL-MCO01-MCO01;"TLP-T3675201-JOSE AILTON DA SILVA MARTIN";"2026-11-03 01:57:05";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100007657;SR-RESE03;RJRSD_0003;"Single RAN";"SISTEMA IRRADIANTE";RJ;SUSPENSO;"ESTEIRA DE ATENDIMENTO";P2;BACKLOG;"2026-11-02 16:59:28";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3429550-WILSON ANTONIO DE ALMEIDA";"2026-11-03 00:11:15";"02/11/2026 17:15 JEFERSON LEONARDO MARTINS: Agurdando disponibilidade técnica, técnico Gilson Barbosa acionado e ciente
+02/11/2026 17:10 JEFERSON LEONARDO MARTINS: Verificando acionamento
+";nao;n;-;-;-;0;SIM;FMMT;FIXA;DESATUALIZADO;n;"ISOC SERVICOS FIXO PREMIUM CLASS"
+TSK261100008021;SR-PIRA06;RJPII_0006;"Single RAN";ENERGIA;RJ;"NAO INICIADO";-;P2;BACKLOG;"2026-11-02 18:34:49";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3696835-EMMANUEL GOMES GUILHERME";"2026-11-03 00:11:15";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC SERVICOS FIXO PREMIUM CLASS"
+TSK261100008132;RNAGVVA-VVLH26-01;ESVVA_0017;ROUTER;"ABERTURA DE ENLACE";ES;SUSPENSO;-;P3;"NO PRAZO";"2026-11-02 19:08:10";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-VIT03;OPERADOR_CSM_FMT-ES_EPS;"2026-11-03 02:48:14";;nao;n;-;-;-;0;NÃO;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100008221;SR-NVIG39;RJMESQ0008;"Single RAN";ENERGIA;RJ;SUSPENSO;-;P2;BACKLOG;"2026-11-02 19:33:39";"VINICIUS PEREIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-BXD01;"TLP-T3429535-ALEXANDRE PAIVA DA SILVA";"2026-11-03 00:11:15";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC SERVICOS FIXO PREMIUM CLASS"
+TSK261100008267;SR-VRED29;RJVRD_0066;"Single RAN";ENERGIA;RJ;"NAO INICIADO";-;-;"NO PRAZO";"2026-11-02 19:50:38";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;OPERADOR_CSM_FMT-RJ_INT_INT;"2026-11-02 23:14:32";;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008282;5D-DQCX77-07;RJDQX_9061;GNODEB;"INDISPONIBILIDADE PARCIAL";RJ;SUSPENSO;-;P5;"NO PRAZO";"2026-11-02 19:57:53";"VINICIUS PEREIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-BXD01;OPERADOR_CSM_FMT-RJ_BXD01-BXD01;"2026-11-03 02:53:27";;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008371;73SLADAD01;PEAGB_0002;ENODE-B;SUPERVISÃO;PE;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-02 20:24:30";"JEFFETHER COSTA";TRJ;-;1;TNE2_FMMT;TNE-PE-ACV01-ACV01;"TLP-T3755610-MARCOS ANTONIO ARAUJO SILVA";"2026-11-03 00:10:26";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008428;SR-RJSZ09;RJRJO_0410;"Single RAN";ENERGIA;RJ;"NAO INICIADO";-;-;"NO PRAZO";"2026-11-02 20:42:15";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;OPERADOR_CSM_FMT-RJ_ZNO01-ZOE02;"2026-11-03 00:04:08";;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008534;SR-NVIG50;RJNIU_0168;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P3;"NO PRAZO";"2026-11-02 21:15:10";"VINICIUS PEREIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-BXD01;OPERADOR_CSM_FMT-RJ_BXD01-BXD01;"2026-11-03 00:03:55";;nao;n;-;-;-;0;NÃO;FMMT;FIXA;"SEM ANALISE";n;"ISOC SERVICOS FIXO PREMIUM CLASS"
+TSK261100008829;ANGR05;RJARS_0005;BTS;ENERGIA;RJ;"NAO INICIADO";-;P1;BACKLOG;"2026-11-02 22:49:23";"JESSE ESQUERDO";TRJ;-;1;TRJ-RJ-ZNO01-ANG01;TRJ-RJ-ZNO01-ANG01;"TLP-T3429552-MARCOS RENATO DA SILVA";"2026-11-03 01:42:44";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008831;RJO-BN234-HWP01;RJRJO_4558;PTN;"ABERTURA DE ENLACE";RJ;SUSPENSO;-;P2;BACKLOG;"2026-11-02 22:50:44";"JACKELINE ZEFERINO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ-GRD01-ZSL01;"2026-11-03 03:19:48";;nao;n;-;-;-;0;NÃO;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE TX"
+TSK261100008885;ES5515;ESSEA_0028;NODE-B;"INDISPONIBILIDADE TOTAL";ES;SUSPENSO;-;P3;"NO PRAZO";"2026-11-02 23:16:24";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-VIT03;"OPERADOR CSM TRJ";"2026-11-03 01:35:56";;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008959;RNAGRJO-RJBT45-01;RJRJO_1067;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";-;P3;"NO PRAZO";"2026-11-02 23:53:39";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3390139-CRISTIANO BARBOSA COUTINHO";"2026-11-03 03:35:02";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100008966;RNACDQX-DQCX38-01;RJDQX_0120;ROUTER;"DEGRADAÇÃO DE SINAL";RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-02 23:56:42";"VINICIUS PEREIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-BXD01;OPERADOR_CSM_FMT-RJ_BXD01-BXD01;"2026-11-03 00:34:43";;nao;n;-;-;-;0;NÃO;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009014;RNACRJO-RJBT36-01;RJRJO_0139;ROUTER;"ABERTURA DE ENLACE";RJ;INICIADO;-;P5;"NO PRAZO";"2026-11-03 00:19:19";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3748030-Vitor Abrantes";"2026-11-03 02:43:05";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009034;RNACBERO-BFRX10-01;RJBERO0010;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";"EM ESTEIRA";-;BACKLOG;"2026-11-03 00:30:03";"VINICIUS PEREIRA";TRJ1;-;1;TRJ1_FMO;TRJ-RJ-BXD01-BXD01;TRJ1_FMO;;;nao;n;-;-;-;0;NÃO;FMO;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009036;SR-ARCZ10;ESACZ_0011;"Single RAN";ENERGIA;ES;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-03 00:30:09";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-VIT03;"TLP-T3429222-ALBERTO VAZZOLER";"2026-11-03 02:00:01";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100009047;RNAGRJO-RJCP17-01;RJRJO_0204;ROUTER;"ABERTURA DE ENLACE";RJ;SUSPENSO;-;P4;"NO PRAZO";"2026-11-03 00:31:54";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ-GRD01-ZSL01;"2026-11-03 02:45:58";;nao;n;-;-;-;0;NÃO;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009147;SR-VRED07;RJVRD_0584;"Single RAN";ENERGIA;RJ;"NAO INICIADO";-;P2;"NO PRAZO";"2026-11-03 01:20:42";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3738324-VICTOR CASTILHO DONATO";"2026-11-03 01:42:45";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC SERVICOS FIXO PREMIUM CLASS"
+TSK261100009157;RNACRJO-RJ2330-01;RJRJO_8491;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-03 01:27:45";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;OPERADOR_CSM_FMT-RJ_ZNO01-ZOE02;"2026-11-03 04:46:17";;nao;n;-;-;-;0;NÃO;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009215;RNACRJO-RJ1122-01;RJRJO_2977;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";-;P4;"NO PRAZO";"2026-11-03 02:00:21";"JACKELINE ZEFERINO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ-GRD01-ZSL01;"2026-11-03 02:52:56";;nao;n;-;-;-;0;NÃO;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009219;RNACRJO-RJ0763-01;RJRJO_2942;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-03 02:04:17";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3748030-Vitor Abrantes";"2026-11-03 04:54:13";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009221;RNACRJO-RJ0427-01;RJRJO_1062;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-03 02:04:51";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3748030-Vitor Abrantes";"2026-11-03 04:56:22";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009242;RNACBERO-RJ2639-01;RJBERO0067;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";"EM ESTEIRA";-;"NO PRAZO";"2026-11-03 02:15:38";"VINICIUS PEREIRA";TRJ1;-;1;TRJ1_FMO;TRJ-RJ-BXD01-BXD01;TRJ1_FMO;;;nao;n;-;-;-;0;NÃO;FMO;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009259;RNACRJO-RJPE25-01;RJRJO_0354;ROUTER;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";-;P2;"NO PRAZO";"2026-11-03 02:21:26";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;OPERADOR_CSM_FMT-RJ_ZNO01-ZOE02;"2026-11-03 03:21:28";;nao;n;-;-;-;0;NÃO;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009268;RMACNIU-NVIG49-01;RJNIU_0071;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";"EM ESTEIRA";-;"NO PRAZO";"2026-11-03 02:25:03";"VINICIUS PEREIRA";TRJ1;-;1;TRJ1_FMO;TRJ-RJ-BXD01-BXD01;TRJ1_FMO;;;nao;n;-;-;-;0;NÃO;FMO;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009284;RNACRJO-RJBT82-01;RJRJO_1065;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-03 02:31:40";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;OPERADOR_CSM_FMT-RJ_ZNO01-ZOE02;"2026-11-03 04:46:17";;nao;n;-;-;-;0;NÃO;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009308;RNACRJO-RJME39-01;RJRJO_1138;ROUTER;"ABERTURA DE ENLACE";RJ;INICIADO;-;P4;"NO PRAZO";"2026-11-03 02:48:22";"JACKELINE ZEFERINO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;"TLP-T3349327-GLAUCIO HIPOLITO GONZAGA";"2026-11-03 02:56:05";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009328;RNACRJO-RJ0767-01;RJRJO_3025;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";-;-;"NO PRAZO";"2026-11-03 02:56:46";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3748030-Vitor Abrantes";"2026-11-03 03:11:19";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009354;RNACNIU-RJ3070-01;RJNIU_0184;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";"EM ESTEIRA";-;"NO PRAZO";"2026-11-03 03:10:03";"VINICIUS PEREIRA";TRJ1;-;1;TRJ1_FMO;TRJ-RJ-BXD01-BXD01;TRJ1_FMO;;;nao;n;-;-;-;0;NÃO;FMO;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009408;RMAGDQX-DQCX29-01;RJDQX_0027;ROUTER;"ESCALONAMENTO P1";RJ;"NAO INICIADO";-;P2;"NO PRAZO";"2026-11-03 03:42:14";"VINICIUS PEREIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-BXD01;OPERADOR_CSM_FMT-RJ_BXD01-BXD01;"2026-11-03 03:57:27";;nao;n;-;-;-;0;NÃO;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009452;RJO-MFA01-THWW02;RJRJO_2040;DWDM;"AUSÊNCIA DE SINAL";RJ;"NAO INICIADO";"EM ESTEIRA";-;"NO PRAZO";"2026-11-03 04:10:05";"THIAGO BARBOSA";TRJ2;-;1;TRJ2_FMO;TRJ-RJ-GRD01-ZSL01;TRJ2_FMO;;;nao;n;-;-;-;0;NÃO;FMO;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE TX"
+TSK261100009494;CNA-PKY01-HWW02;ESCNA_0004;DWDM;"ESCALONAMENTO P1";ES;"NAO INICIADO";"ATRIBUIDO EM CAMPO";-;"NO PRAZO";"2026-11-03 04:25:03";"CARLOS MIRANDA";TRJ2;-;1;TRJ2_FMO;TRJ-ES-EPS01-SMT02;"TLP-T3439465-ISAAC RODRIGUES GUERRA";"2026-11-03 04:28:23";;nao;n;-;-;-;0;SIM;FMO;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE TX"
+TSK261100009530;RNAGRJO-RJPE36-01;RJRJO_0362;ROUTER;"AUSÊNCIA DE SINAL";RJ;"NAO INICIADO";"EM ESTEIRA";-;"NO PRAZO";"2026-11-03 04:55:03";"THIAGO BARBOSA";TRJ2;-;1;TRJ2_FMO;TRJ-RJ-GRD01-ZSL01;TRJ2_FMO;;;nao;n;-;-;-;0;NÃO;FMO;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009537;4G-BRMS07;RJBMA_0007;ENODE-B;HARDWARE;RJ;"NAO INICIADO";-;P3;"NO PRAZO";"2026-11-03 05:00:59";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;TRJ_FMMT;;;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100009549;RJO-RJCG16-THWP01;RJRJO_0179;PTN;LÓGICA;RJ;"NAO INICIADO";-;P1;"NO PRAZO";"2026-11-03 05:01:28";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;TRJ_FMMT;;;nao;n;-;-;-;0;NÃO;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE TX"
+TSK261100009551;MWE-RJ-NLRJBG65-T1-HW;RJRJO_8596;"RADIO MW";HARDWARE;RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-03 05:01:31";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;TRJ_FMMT;;;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100009577;5D-SGLO07-05;RJSGO_1057;GNODEB;"INDISPONIBILIDADE PARCIAL";RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-03 05:02:05";"VINICIUS PEREIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;TRJ_FMMT;;;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100009063;RNDIRJO-CUR01-01;RJRJO_1543;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";-;P4;"NO PRAZO";"2026-11-03 00:39:12";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3754040-JOAO HENRIQUE TEIXEIRA RAMO";"2026-11-03 02:32:38";;nao;n;"0 / 0";WDM_CORE_RJO_03;"WDM_CORE_RJO_03 WDM_CORE_RJO";0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009222;RNDIRJO-CUR01-01;RJRJO_1543;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";"EM ESTEIRA";-;"NO PRAZO";"2026-11-03 02:05:04";"ALEXANDRE LIMA";TRJ1;-;1;TRJ1_FMO;TRJ-RJ-ZNO01-ZOE02;TRJ1_FMO;;;nao;n;"0 / 0";WDM_CORE_RJO_03;"WDM_CORE_RJO_03 WDM_CORE_RJO";0;NÃO;FMO;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009373;RMAGNIU-NVIG18-01;RJNIU_0016;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";"EM ESTEIRA";-;"NO PRAZO";"2026-11-03 03:20:31";"VINICIUS PEREIRA";TRJ1;-;1;TRJ1_FMO;TRJ-RJ-BXD01-BXD01;TRJ1_FMO;;;nao;n;"0 / 0";anel_ftts_rjo_a01;"anel_ftts_rjo_a01 anel_ftts_rj_a28 anel_agg_rj_baixada anel_agg_rj_baixada02 anel_ftts_rjo_a121 anel_ftts_anel_a133";0;NÃO;FMO;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261000146954;SR-RJCG48;RJRJO_3960;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";"EM TRATATIVA";P5;BACKLOG;"2026-10-28 18:09:40";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3662695-JUANN BUCHMANN FONSECA DE A";"2026-11-03 00:11:15";"01/11/2026 17:18 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+01/11/2026 17:18 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+01/11/2026 09:12 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+31/10/2026 15:41 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+31/10/2026 10:43 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+30/10/2026 18:13 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+30/10/2026 11:22 NATALIA SILVA GOMES: 📍 INTERPÉRIE CLIMÁTICA
+
+Prezados,
+
+Devido às condições climáticas adversas em toda a região do TRJ, com ocorrência chuvas e comprometimento das condições de acesso, o deslocamento das equipes técnicas e o atendimento aos chamados foram impactados.
+
+Dessa forma, solicitamos o abono/expurgo do SLA, considerando que a intempérie climática impossibilitou o cumprimento dos prazos estabelecidos. As tratativas serão retomadas assim que houver condições seguras de acesso e atuação nos locais afetados.
+28/10/2026 18:13 NATALIA SILVA GOMES: Atividade atribuída à fila de atendimento do técnico para posterior atuação. Estamos priorizando atividades relacionadas P1, P2, site fora ou massiva.
+
+";nao;n;"0 / 0";RNS-DS-ARJO10;RNS-DS-ARJO10;5;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000149142;LNS-ROD01-THWW01;ESLNS_0003;DWDM;"DEGRADAÇÃO DE SINAL";ES;"NAO INICIADO";"EM TRATATIVA";P5;BACKLOG;"2026-10-29 05:40:22";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-SMT02;"TLP-T3779211-EDIMAR MORAES";"2026-11-03 02:00:01";"01/11/2026 15:06 LUKAS MATHEUS FERREIRA: Fabricio Segatto, +55 21 96943-0247
+30/10/2026 10:15 LUKAS MATHEUS FERREIRA: Técnico Fabricio Segatto em deslocamento, previsão às 11h40.
+30/10/2026 09:18 LUKAS MATHEUS FERREIRA: Favor desconsiderar informação anterior.
+30/10/2026 08:59 LUKAS MATHEUS FERREIRA: ISOC MONITORACAO TRANSPORTE TX (ASSOCIAÇÃO DE ATIVIDADES)
+NE ID / ELEMENTO: LNS-ROD01-THWW01
+TICKET: TSK261000149142
+OBS: Por favor associar a  EVE261000137471
+
+";nao;s;-;-;-;5;SIM;FMMT;FIXA;DESATUALIZADO;n;"ISOC MONITORACAO TRANSPORTE TX"
+TSK261000161297;RMAGRJO-RJBG24-01;RJRJO_1087;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";"SEM ACESSO";P3;BACKLOG;"2026-10-31 08:52:41";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3754040-JOAO HENRIQUE TEIXEIRA RAMO";"2026-11-03 02:57:06";"01/11/2026 19:42 PYETRA ARIELLY ILHEO DA SILVEIRA: 📌Escalonamento – Área de Risco
+📎Motivo: Suspensão
+👷Técnico/contato: CCI TRJ
+📍TSK/NE ID: TSK261000161297 / RMAGRJO-RJBG24-01
+🟡Observação: Site localizado em área de risco o mesmo sendo acessado no horário diurno, porém estamos realizando atendimentos em duplas, devido aos roubos de automóveis no local.
+01/11/2026 13:17 MARIA CLARA MANFREDINI COELHO: Técnico Ivson de Jesus, +55 21 97107-2430, acionado e ciente. 
+01/11/2026 08:59 MARIA CLARA MANFREDINI COELHO: Técnico Ivson de Jesus, +55 21 97107-2430, acionado e ciente. 
+31/10/2026 18:02 MARIA CLARA MANFREDINI COELHO: Técnico Ivson de Jesus, +55 21 97107-2430, acionado e ciente. 
+31/10/2026 10:08 MARIA CLARA MANFREDINI COELHO: Técnico Leonardo Paulino acionado e ciente. 
+";nao;s;-;-;-;2;SIM;FMMT;MOVEL;DESATUALIZADO;n;"CAMPO FMO TRIAGEM TRJ 1"
+TSK261100007159;RNACVVA-VVLH19-01;ESVVA_0013;ROUTER;"ABERTURA DE ENLACE";ES;"NAO INICIADO";"EM ESTEIRA";P5;BACKLOG;"2026-11-02 15:12:14";"CARLOS MIRANDA";TRJ2;-;1;TRJ2_FMO;TRJ-ES-EPS01-VIT03;TRJ2_FMO;;;nao;s;-;-;-;0;NÃO;FMO;MOVEL;"SEM ANALISE";n;"CAMPO FMO TRIAGEM TRJ 1"
+TSK261100007589;RNAGRJO-RJBT45-01;RJRJO_1067;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";"EM ESTEIRA";P3;BACKLOG;"2026-11-02 16:42:17";"ALEXANDRE LIMA";TRJ1;-;1;TRJ1_FMO;TRJ-RJ-ZNO01-ZOE02;TRJ1_FMO;;;nao;s;-;-;-;0;NÃO;FMO;MOVEL;"SEM ANALISE";n;"CAMPO FMO TRIAGEM TRJ 1"
+TSK261100008102;RNAGRJO-RJPE40-01;RJRJO_0517;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";"EM ESTEIRA";P4;BACKLOG;"2026-11-02 18:59:47";"THIAGO BARBOSA";TRJ2;-;1;TRJ2_FMO;TRJ-RJ-GRD01-ZSL01;TRJ2_FMO;;;nao;s;-;-;-;0;NÃO;FMO;MOVEL;"SEM ANALISE";n;"CAMPO FMO TRIAGEM TRJ 1"
+TSK261100009443;RMAGRJO-MTC01-01;RJRJO_2157;ROUTER;"DEGRADAÇÃO DE SINAL";RJ;"NAO INICIADO";"ATRIBUIDO EM CAMPO";P2;"NO PRAZO";"2026-11-03 04:05:37";"THIAGO BARBOSA";TRJ2;-;1;TRJ2_FMO;TRJ-RJ-GRD01-ZSL01;"TLP-T3599210-ARTHUR DE OLIVEIRA CORREA";"2026-11-03 04:11:51";;nao;s;-;-;-;0;SIM;FMO;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261000118433;4G-RJSZ44;RJRJO_2917;ENODE-B;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";"EM TRATATIVA";P3;BACKLOG;"2026-10-23 12:43:23";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3429229-HENRY DO VALE SANTOS";"2026-11-03 00:42:27";"01/11/2026 16:59 NATALIA SILVA GOMES: O coordenador Alan informa que seguimos aguardando a chegada dos materiais necessários para a execução da tratativa. 
+31/10/2026 10:48 NATALIA SILVA GOMES: O coordenador Alan informa que seguimos aguardando a chegada dos materiais necessários para a execução da tratativa. 
+29/10/2026 09:52 JOÃO PEDRO RIBEIRO DAS DORES: COORD ALAN INFORMA QUE AINDA ESTAMOS AGUARDANDO A CHEGADA DO MATERIAL
+24/10/2026 07:19 JOÃO PEDRO RIBEIRO DAS DORES: COORD VINICIUS INFORMA QUE AINDA ESTAMOS AGUARDANDO SOBRESSALENTE PARA ERGUER O RESTANTE DO SITE
+";nao;n;-;-;-;10;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000123889;4G-SGLO04;RJSGO_0004;ENODE-B;HARDWARE;RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-24 14:25:38";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;"TLP-T3433165-VITOR CARVALHO SODRE";"2026-11-03 00:11:15";;nao;n;-;-;-;9;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000133620;4G-MCAE12;RJMCE_0011;ENODE-B;"INDISPONIBILIDADE PARCIAL";RJ;"NAO INICIADO";VANDALISMO;P4;BACKLOG;"2026-10-26 15:22:54";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-CBF01;"TLP-T3429539-WILSON CORREA DE ALMEIDA";"2026-11-03 00:11:15";"02/11/2026 07:15 JEFERSON LEONARDO MARTINS: Coordenador Jesse informa setor de compras segue adquirindo os materiais vandalizados
+02/11/2026 06:59 JEFERSON LEONARDO MARTINS: Verificando materiais com coordenador Jesse
+30/10/2026 11:14 IASMIN CARVALHO APARECIDO:  Coordenador Jesse informa setor de compras segue adquirindo os materiais
+29/10/2026 07:03 JEFERSON LEONARDO MARTINS: Coordenador Jesse informa setor de compras segue adquirindo os materiais
+28/10/2026 15:26 IASMIN CARVALHO APARECIDO:  Coordenador Jesse informa que está sendo realizado relatório dos matérias ao setor de compras.
+28/10/2026 09:21 IASMIN CARVALHO APARECIDO: Coordenador Jesse verificando disponibilidade dos materiais vandalizados. 
+27/10/2026 09:51 JEFERSON LEONARDO MARTINS: Técnico Carlos Magno informa nova previsão as 10:30 devido ao engarrafamento no transito
+27/10/2026 08:58 JEFERSON LEONARDO MARTINS: Técnico Carlos Magno informa nova previsão as 09:40 devido ao transito
+27/10/2026 08:57 JEFERSON LEONARDO MARTINS: Técnico Carlos Magno informa nova previsão as 09:40
+26/10/2026 16:32 IASMIN CARVALHO APARECIDO: TÉC CARLOS MAGNO INFORMA QUE SITE SE ENCONTRA VANDALIZADO, SERÁ REALIZADO JOTFORM.
+";nao;n;-;-;-;7;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000136311;SR-VRED29;RJVRD_0066;"Single RAN";"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-27 05:01:13";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;OPERADOR_CSM_FMT-RJ_INT_INT;"2026-11-02 23:14:32";;nao;n;-;-;-;7;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000150500;O32040;RJMGB_0054;NODE-B;DISPONIBILIDADE;RJ;"NAO INICIADO";"ESTEIRA DE ATENDIMENTO";P5;BACKLOG;"2026-10-29 11:26:48";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ANG01;"TLP-T3329656-RODRIGO FERNANDES DE SOUZA";"2026-11-03 00:11:15";"31/10/2026 10:11 IASMIN CARVALHO APARECIDO: téc. Alex Nascimento acionado, previsão 11h20
+29/10/2026 11:52 JEFERSON LEONARDO MARTINS: Verificando acionamento
+";nao;n;-;-;-;4;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO FA"
+TSK261000153695;RJ3757;RJBMA_0024;NODE-B;"SISTEMA IRRADIANTE";RJ;"NAO INICIADO";"EM TRATATIVA";P5;BACKLOG;"2026-10-29 20:38:30";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3550537-GILSON SOARES DE PAULA";"2026-11-03 00:11:15";"31/10/2026 08:57 IASMIN CARVALHO APARECIDO: Téc. Emmanuel acionado. aguardando previsão
+";nao;n;-;-;-;4;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261000158726;4G-SGLO04;RJSGO_0004;ENODE-B;DESEMPENHO;RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-30 17:43:04";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;"TLP-T3433165-VITOR CARVALHO SODRE";"2026-11-03 00:11:15";;nao;n;-;-;-;3;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000162607;RNACRJO-RJJP20-01;RJRJO_0249;ROUTER;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";"SEM ACESSO";P3;BACKLOG;"2026-10-31 13:50:18";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ_ZNO01-ZOE02;"2026-11-03 00:04:08";"01/11/2026 19:36 PYETRA ARIELLY ILHEO DA SILVEIRA: *Escalonamento – RESTRIÇÃO DE ACESSO*
+Motivo: SUSPENSÃO
+Técnico/contato: CCI TRJ
+TSK/NE ID: TSK261000162607 / RNACRJO-RJJP20-01
+Restrição: Técnico informa que, em contato com a ATC, foi atendido por Gabriel, sob protocolo nº 04416764. O atendente informou que entrará em contato com o condomínio para verificar a possibilidade de acesso e retornará com um posicionamento. Entretanto, conforme orientação do porteiro, o acesso ao prédio somente será permitido na terça-feira, dia 03/11/2026.
+
+01/11/2026 13:16 MARIA CLARA MANFREDINI COELHO: 
+01/11/2026 08:07 MARIA CLARA MANFREDINI COELHO: *Escalonamento – RESTRIÇÃO DE ACESSO*
+Motivo: SUSPENSÃO
+Técnico/contato: CCI TRJ
+TSK/NE ID: TSK261000162607 / RNACRJO-RJJP20-01
+Restrição: Técnico informa que, em contato com a ATC, foi atendido por Gabriel, sob protocolo nº 04416764. O atendente informou que entrará em contato com o condomínio para verificar a possibilidade de acesso e retornará com um posicionamento. Entretanto, conforme orientação do porteiro, o acesso ao prédio somente será permitido na terça-feira, dia 03/11/2026.
+31/10/2026 19:43 PYETRA ARIELLY ILHEO DA SILVEIRA: *Escalonamento – RESTRIÇÃO DE ACESSO*
+Motivo: SUSPENSÃO
+Técnico/contato: CCI TRJ
+TSK/NE ID: TSK261000162607 / RNACRJO-RJJP20-01
+Restrição: Técnico informa que, em contato com a ATC, foi atendido por Gabriel, sob protocolo nº 04416764. O atendente informou que entrará em contato com o condomínio para verificar a possibilidade de acesso e retornará com um posicionamento. Entretanto, conforme orientação do porteiro, o acesso ao prédio somente será permitido na terça-feira, dia 03/11/2026.
+31/10/2026 17:27 MARIA CLARA MANFREDINI COELHO: Técnico informa que, em contato com a ATC, foi atendido por Gabriel, sob protocolo nº 04416764. O atendente informou que entrará em contato com o condomínio para verificar a possibilidade de acesso e retornará com um posicionamento. Entretanto, conforme orientação do porteiro, o acesso ao prédio somente será permitido na terça-feira, dia 03/11/2026.
+31/10/2026 17:26 MARIA CLARA MANFREDINI COELHO: Técnico informa que, em contato com a ATC, foi atendido por Gabriel, sob protocolo nº 04416764. O atendente informou que entrará em contato com o condomínio para verificar a situação e retornará com um posicionamento.
+";nao;n;-;-;-;2;NÃO;FMMT;FIXA;DESATUALIZADO;n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261000163105;RJ0370;RJRJO_2536;NODE-B;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";"ESTEIRA DE ATENDIMENTO";P3;BACKLOG;"2026-10-31 15:38:20";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;"TLP-T3354421-ADENILSON AVELINO DA SILVA";"2026-11-03 01:13:24";"02/11/2026 06:31 TAILA DA SILVA CAMARGO: Técnico Roberto Felix acionado, aguardando a previsão do mesmo.
+01/11/2026 07:02 TAILA DA SILVA CAMARGO: Técnico Edinildo Barros acionado, previsão 08:10
+01/11/2026 00:22 PYETRA ARIELLY ILHEO DA SILVEIRA: RJ0370
+Verificado que a tensão AC do site,está oscilando
+Verificado no Disjuntor e nos cabos,dentro da caixa de passagem.
+Desligado o Disjuntor AC,para proteger os equipamentos.
+Abrindo chamado com a concessionária
+
+
+
+RJ0370
+Protocolo:2544239339
+Atendente:Letícia.
+Aberto um chamado com a light
+Previsão:O mais breve possível
+31/10/2026 17:12 TAILA DA SILVA CAMARGO: Técnico Ricardo Bomfim no local verificando a falha 
+";nao;n;-;-;-;2;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261100001011;RJ3943;RJGUPM0003;NODE-B;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";"EM TRATATIVA";P2;BACKLOG;"2026-11-01 08:05:48";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;"TLP-T3479114-REGINALDO DOS SANTOS MONTE";"2026-11-03 00:11:15";"02/11/2026 10:16 ARTHUR GUIMARAES FURTUNATO: TECNICO CARLOS ROBERTO NO SITE COM L3 RELIZANDO TESTES 
+02/11/2026 08:14 ARTHUR GUIMARAES FURTUNATO: TECNICO CARLOS ROBERTO ACIONADO, PREV 09:10 
+";nao;n;-;-;-;2;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261100002481;5G-MCAE36;RJMCE_0078;GNODEB;"INDISPONIBILIDADE PARCIAL";RJ;"NAO INICIADO";"EM TRATATIVA";P4;BACKLOG;"2026-11-01 15:37:31";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-CBF01;"TLP-T3429543-RUBENS NELSON DA COSTA GURG";"2026-11-03 00:11:15";"02/11/2026 11:15 JEFERSON LEONARDO MARTINS: Técnico Wilson Correa no local
+02/11/2026 09:32 JEFERSON LEONARDO MARTINS: Técnico Wilson Correa informa previsão as 11h
+02/11/2026 08:00 JEFERSON LEONARDO MARTINS: Técnico Wilson Correa acionado, verificando previsão
+02/11/2026 07:23 JEFERSON LEONARDO MARTINS: Verificando disponibilidade técnica com coordenador Jesse
+01/11/2026 16:16 IASMIN CARVALHO APARECIDO: Téc, Wilson Correia acionado, previsão 19H, coordenador Jesse ciente.
+";nao;n;-;-;-;1;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261100004699;5G-ITBO08;RJIOY_0008;GNODEB;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";"EM TRATATIVA";P2;BACKLOG;"2026-11-02 05:02:16";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;"TLP-T3681269-RAFAEL CARVALHO PINTO";"2026-11-03 00:11:15";"02/11/2026 11:06 TAILA DA SILVA CAMARGO: Técnico Vitor Carvalho no local verificando a falha
+02/11/2026 10:06 TAILA DA SILVA CAMARGO: Técnico Vitor Carvalho em deslocamento, previsão 11:20
+02/11/2026 08:12 TAILA DA SILVA CAMARGO: Técnico Rafael Carvalho acionado, vai realizar a tratativa após RBTO07(SITE FORA, GERANDO MASSIVA). Escalonado Coordenadora Jackeline Costa 
+
+02/11/2026 05:29 PYETRA ARIELLY ILHEO DA SILVEIRA: 📌Escalonamento – Área de Risco
+📎Motivo: Suspensão
+👷Técnico/contato: CCI TRJ
+📍TSK/NE ID: TSK261100004699 / 5G-ITBO08
+🟡Observação: Site localizado em área de risco.
+02/11/2026 05:13 PYETRA ARIELLY ILHEO DA SILVEIRA: VERIFICANDO DISPONIBILIDADE TÉCNICA 
+";nao;n;-;-;-;1;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261100005738;5G-CPGZ50;RJCPS_0305;GNODEB;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";-;P4;"NO PRAZO";"2026-11-02 09:25:20";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-CPS02;"TLP-T3503582-ADYS MEDEIROS BENTO NETO";"2026-11-03 00:11:15";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100005749;4G-RJBA63;RJRJO_3050;ENODE-B;"INDISPONIBILIDADE PARCIAL";RJ;SUSPENSO;"SEM ACESSO";P4;"NO PRAZO";"2026-11-02 09:29:01";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3550539-MARCELLO ALVES VIEIRA";"2026-11-03 00:11:15";"02/11/2026 14:46 JOÃO PEDRO RIBEIRO DAS DORES: TÉC. LEANDRO VIANA E MARCELLO ALVES NO LOCAL INFORMA FALHA PARA ANTENA DO BIO SITE, NECESSÁRIO MONTAGEM DE ANDAIME, COORD ALAN CIENTE
+";nao;n;-;-;-;0;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261100005772;QUAT01;RJQUAS0001;BTS;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";"ESTEIRA DE ATENDIMENTO";P2;BACKLOG;"2026-11-02 09:33:18";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3550537-GILSON SOARES DE PAULA";"2026-11-03 00:11:15";"02/11/2026 16:41 JEFERSON LEONARDO MARTINS: Coordenador Jesse verificando previsão do material
+02/11/2026 10:56 JEFERSON LEONARDO MARTINS: Técnico Victor informa que e necessario trocar 10m de cabo 16mm e 6 conectores olhal que derreteram, verificando materiais com o almoxarifado
+02/11/2026 09:58 JEFERSON LEONARDO MARTINS: Técnico Victor Castilho no local
+";nao;n;-;-;-;0;SIM;FMMT;MOVEL;DESATUALIZADO;n;"ISOC MONITORACAO ACESSO"
+TSK261100007074;RJJP20;RJRJO_9727;BTS;"INDISPONIBILIDADE TOTAL";RJ;INICIADO;-;P4;"NO PRAZO";"2026-11-02 14:53:56";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;"TLP-T3248725-RENATO CAMPOS EIRAS";"2026-11-03 05:01:28";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100007740;4G-OI2040;RJMGB_0054;ENODE-B;"INDISPONIBILIDADE TOTAL";RJ;SUSPENSO;"ESTEIRA DE ATENDIMENTO";P1;BACKLOG;"2026-11-02 17:21:38";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ANG01;"TLP-T3329656-RODRIGO FERNANDES DE SOUZA";"2026-11-03 00:11:15";"02/11/2026 17:27 JEFERSON LEONARDO MARTINS: Veriifcando disponibilidade técnica com coordenador Jesse
+02/11/2026 17:24 JEFERSON LEONARDO MARTINS: Verificando acionamento
+";nao;n;-;-;-;0;SIM;FMMT;FIXA;DESATUALIZADO;n;"ISOC SERVICOS FIXO PREMIUM CLASS"
+TSK261100007750;4G-SGLO04;RJSGO_0004;ENODE-B;"INDISPONIBILIDADE PARCIAL";RJ;SUSPENSO;-;P4;"NO PRAZO";"2026-11-02 17:24:35";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-BXD01-NIT02;"TLP-T3433165-VITOR CARVALHO SODRE";"2026-11-03 00:26:59";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008020;18NLPIRA09;RJPII_0018;ENODE-B;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";-;P1;BACKLOG;"2026-11-02 18:34:49";"JESSE ESQUERDO";TRJ;-;1;TRJ-RJ-INT01-VRD05;TRJ-RJ-INT01-VRD05;"TLP-T3429550-WILSON ANTONIO DE ALMEIDA";"2026-11-03 04:48:22";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC SERVICOS FIXO PREMIUM CLASS"
+TSK261100008231;SR-SERR22;ESSEA_0019;"Single RAN";ENERGIA;ES;SUSPENSO;-;P3;"NO PRAZO";"2026-11-02 19:38:12";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-VIT03;"TLP-T3429225-ADEMILSON ONOFRE DOS SANTOS";"2026-11-03 00:41:01";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008341;4G-PIRA00;RJPII_0027;ENODE-B;"INDISPONIBILIDADE TOTAL";RJ;SUSPENSO;-;P5;"NO PRAZO";"2026-11-02 20:18:57";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;OPERADOR_CSM_FMT-RJ_INT_INT;"2026-11-02 22:35:54";;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008347;4G-OI2274;RJVAS_0023;ENODE-B;"INDISPONIBILIDADE TOTAL";RJ;SUSPENSO;-;P5;"NO PRAZO";"2026-11-02 20:19:48";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;OPERADOR_CSM_FMT-RJ_INT_INT;"2026-11-02 22:35:54";;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008405;ES5392;ESFNO_0002;NODE-B;"INDISPONIBILIDADE TOTAL";ES;SUSPENSO;-;P3;"NO PRAZO";"2026-11-02 20:34:29";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-VIT03;"TLP-T3429227-MATEUS ALVES RODRIGUES";"2026-11-03 01:44:28";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008422;4G-RJPE16;RJRJO_0525;ENODE-B;"INDISPONIBILIDADE PARCIAL";RJ;SUSPENSO;-;P4;"NO PRAZO";"2026-11-02 20:40:27";"MATHEUS PALMEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;"TLP-T3354421-ADENILSON AVELINO DA SILVA";"2026-11-03 03:19:17";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008440;4G-RJCG65;RJRJO_9578;ENODE-B;"INDISPONIBILIDADE PARCIAL";RJ;"NAO INICIADO";-;P4;"NO PRAZO";"2026-11-02 20:45:51";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-RJ_ZNO01-ZOE02;"2026-11-03 02:53:15";;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008506;SR-BPIR04;RJVRD_0020;"Single RAN";ENERGIA;RJ;"NAO INICIADO";-;P4;"NO PRAZO";"2026-11-02 21:05:18";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3738324-VICTOR CASTILHO DONATO";"2026-11-03 00:11:15";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008554;RJCG21;RJRJO_0184;BTS;ENERGIA;RJ;SUSPENSO;-;P4;"NO PRAZO";"2026-11-02 21:20:52";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3797541-Hans Wagner da Silva";"2026-11-03 03:03:40";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008566;RJ4162;RJPNHE0003;NODE-B;"INDISPONIBILIDADE TOTAL";RJ;SUSPENSO;-;P4;"NO PRAZO";"2026-11-02 21:23:40";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3696835-EMMANUEL GOMES GUILHERME";"2026-11-03 00:25:34";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008611;18NLRCLO03;RJRCL_0006;ENODE-B;"INDISPONIBILIDADE TOTAL";RJ;SUSPENSO;-;P4;"NO PRAZO";"2026-11-02 21:36:47";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3697098-GILSON PEREIRA BARBOSA";"2026-11-03 00:25:34";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008790;4G-VVLH30;ESVVA_0020;ENODE-B;"INDISPONIBILIDADE PARCIAL";ES;SUSPENSO;-;P4;"NO PRAZO";"2026-11-02 22:33:52";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-VIT03;"TLP-T3429222-ALBERTO VAZZOLER";"2026-11-03 00:25:32";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100008825;4G-OI2040;RJMGB_0054;ENODE-B;HARDWARE;RJ;SUSPENSO;-;P2;BACKLOG;"2026-11-02 22:48:02";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ANG01;"TLP-T3329656-RODRIGO FERNANDES DE SOUZA";"2026-11-03 00:11:15";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC SERVICOS FIXO PREMIUM CLASS"
+TSK261100009023;RNACRJO-RJCG21-01;RJRJO_0184;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-03 00:24:15";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3797541-Hans Wagner da Silva";"2026-11-03 03:03:40";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009055;RMACBERO-RJ2619-01;RJBERO0026;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";"EM ESTEIRA";-;BACKLOG;"2026-11-03 00:35:07";"VINICIUS PEREIRA";TRJ1;-;1;TRJ1_FMO;TRJ-RJ-BXD01-BXD01;TRJ1_FMO;;;nao;n;-;-;-;0;NÃO;FMO;FIXA;"SEM ANALISE";n;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100009571;TERE20;RJTRL_0023;BTS;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";-;P3;"NO PRAZO";"2026-11-03 05:01:59";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-NFB03;TRJ_FMMT;;;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100009060;4G-RJBA54;RJRJO_3002;ENODE-B;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";-;P3;"NO PRAZO";"2026-11-03 00:38:30";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3550539-MARCELLO ALVES VIEIRA";"2026-11-03 03:50:36";;nao;n;"0 / 0";ANEL_FTTH_ITAPEBA-1;"ANEL_FTTH_ITAPEBA-1 ODN_RJABB001H";0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100009609;RJ3983;RJVLC_0003;NODE-B;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";-;P4;"NO PRAZO";"2026-11-03 05:03:08";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;TRJ_FMMT;;;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100009628;4G-DRDRJ0;ALPOP_0001;ENODE-B;"INDISPONIBILIDADE TOTAL";AL;"NAO INICIADO";-;P1;"NO PRAZO";"2026-11-03 05:03:40";"STENIO COSTA";TRJ;-;1;-;TNE-AL-MCO01-MCO01;"TLP-T3675201-JOSE AILTON DA SILVA MARTIN";"2026-11-03 05:04:20";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261100009596;4G-VRED29;RJVRD_0066;ENODE-B;"INDISPONIBILIDADE TOTAL";RJ;"NAO INICIADO";-;P4;"NO PRAZO";"2026-11-03 05:02:46";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;TRJ_FMMT;;;nao;n;-;-;-;0;NÃO;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000149351;RJO_ROC_PTN3901;RJRJO_0495;PTN;COMUNICAÇÃO;RJ;"NAO INICIADO";-;P4;BACKLOG;"2026-10-29 06:53:51";"JACKELINE ZEFERINO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01_PRED;"TLP-T3285347-RENATO SANTOS DE LIMA";"2026-11-03 02:29:03";;nao;n;-;-;-;5;SIM;FMMT;FIXA;"SEM ANALISE";s;"ISOC MONITORACAO TRANSPORTE TX"
+TSK261000161561;VAS-LVA01-NKI01AG;RJVAS_0004;ROUTER;"NÃO CLASSIFICADO";RJ;"NAO INICIADO";"ESTEIRA DE ATENDIMENTO";P4;BACKLOG;"2026-10-31 09:48:22";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3776640-JESSE DE BARROS VASCONCELOS";"2026-11-03 00:11:15";"31/10/2026 13:18 IASMIN CARVALHO APARECIDO: verificando acionamento
+";nao;n;-;-;-;2;SIM;FMMT;FIXA;DESATUALIZADO;s;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100004007;VVA-AAO01-NKI02CO;ESVVA_0029;ROUTER;"ABERTURA DE ENLACE";ES;"NAO INICIADO";-;P2;BACKLOG;"2026-11-02 00:10:05";"MERIELEM SOUZA";TRJ;-;1;TRJ_FMMT;TRJ-ES-EPS01-VIT03_PRED;OPERADOR_CSM_FMT-ES_EPS;"2026-11-02 23:42:20";;nao;n;-;-;-;1;NÃO;FMMT;FIXA;"SEM ANALISE";s;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100004143;RTICRJO0203;RJRJO_0556;ROUTER;"DEGRADAÇÃO DE SINAL";RJ;"NAO INICIADO";"ESTEIRA DE ATENDIMENTO";P1;BACKLOG;"2026-11-02 01:09:35";"JACKELINE ZEFERINO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;OPERADOR_CSM_FMT-ES_EPS;"2026-11-02 23:42:20";"02/11/2026 01:19 PYETRA ARIELLY ILHEO DA SILVEIRA: Téc. Glaucio acionado, o mesmo irá verificar após a tratativa no site RNCORJO0101 (Disponibilidade)
+
+Previsão: Esteira de atendimento 
+";nao;n;-;-;-;1;NÃO;FMMT;MOVEL;DESATUALIZADO;s;"ISOC SUPORTE TRANSPORTE TX"
+TSK261100009153;RNACRJO-RJBT92-01;RJRJO_1136;ROUTER;"ABERTURA DE ENLACE";RJ;"NAO INICIADO";-;P5;"NO PRAZO";"2026-11-03 01:24:01";"ALAN OLIVEIRA";TRJ;-;1;TRJ_FMMT;TRJ-RJ-ZNO01-ZOE02;"TLP-T3754040-JOAO HENRIQUE TEIXEIRA RAMO";"2026-11-03 02:48:19";;nao;n;-;-;-;0;SIM;FMMT;FIXA;"SEM ANALISE";s;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100004162;RMDIRJO-CCD01-01;RJRJO_1542;ROUTER;"ABERTURA DE ENLACE";RJ;INICIADO;"EM TRATATIVA";P3;BACKLOG;"2026-11-02 01:16:57";"JACKELINE ZEFERINO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-GRD01-ZSL01;"TLP-T3285347-RENATO SANTOS DE LIMA";"2026-11-02 23:55:48";"02/11/2026 08:47 BRUNO AUGUSTO DE FARIA SILVA: Técnico Duque no local verificando a falha
+02/11/2026 07:12 BRUNO AUGUSTO DE FARIA SILVA: Técnico Duque acionado, previsão às 8:30
+";nao;n;"0 / 0";WDM_CORE_RJO;WDM_CORE_RJO;1;SIM;FMMT;FIXA;DESATUALIZADO;s;"ISOC MONITORACAO TRANSPORTE DADOS"
+TSK261100008285;RJCG20;RJRJO_0183;BTS;ENERGIA;RJ;"NAO INICIADO";-;P1;BACKLOG;"2026-11-02 19:59:12";"ALAN OLIVEIRA";TRJ;-;1;-;TRJ-RJ-ZNO01-ZOE02;"TLP-T3371287-VANESSA CRISTINA SANTOS DA";"2026-11-03 04:12:46";;nao;n;-;-;-;0;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
+TSK261000112517;18NLPIAL01;RJPNHE0382;ENODE-B;HARDWARE;RJ;"NAO INICIADO";-;P5;BACKLOG;"2026-10-22 12:37:25";"JESSE ESQUERDO";TRJ;-;1;TRJ_FMMT;TRJ-RJ-INT01-VRD05;"TLP-T3697098-GILSON PEREIRA BARBOSA";"2026-11-03 00:11:15";;nao;n;-;-;-;11;SIM;FMMT;MOVEL;"SEM ANALISE";n;"ISOC MONITORACAO ACESSO"
